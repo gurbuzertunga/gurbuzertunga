@@ -3,8 +3,8 @@
 <p align='center'>You can also find me at any of the sites below</p>
 
 <div align='center'>
-  <a href="https://twitter.com/dantewuhu"><img alt="Twitter" height="30" src="images/twitter.png"/></a>
-  <a href="https://www.linkedin.com/in/gurbuzertunga/"><img alt="LinkedIn" height="30" src="images/linkedin.png"/></a>
+  <a href="https://twitter.com/dantewuhu"></a>
+  <a href="https://www.linkedin.com/in/gurbuzertunga/"></a>
 </div>
 
 <div align='center'>
@@ -12,3 +12,4 @@
 </div>
 
 [![Gurbuz Ertunga github stats](https://github-readme-stats.vercel.app/api?username=gurbuzertunga&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurbuzertunga&show_icons=true&theme=radical&layout=compact)]
