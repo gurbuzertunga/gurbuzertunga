@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align='center'>Hello People!</h1>
 
-<!--
-**gurbuzertunga/gurbuzertunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>You can also find me at any of the sites below</p>
 
-Here are some ideas to get you started:
+<div align='center'>
+  <a href="https://twitter.com/dantewuhu"><img alt="Twitter" height="30" src="images/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/gurbuzertunga/"><img alt="LinkedIn" height="30" src="images/linkedin.png"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  <img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=defoebrand.defoebrand">
+</div>
+
+[![Gurbuz Ertunga github stats](https://github-readme-stats.vercel.app/api?username=gurbuzertunga&show_icons=true&theme=radical)]
