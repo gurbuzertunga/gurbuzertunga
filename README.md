@@ -3,7 +3,7 @@
 <p align='center'>You can also find me at any of the sites below</p>
 
 <div align='center'>
-  <a href="https://twitter.com/dantewuhu">Twitter</a>
+  <a href="https://angel.co/u/gurbuz-ertunga">Angel List</a>
   <a href="https://www.linkedin.com/in/gurbuzertunga/">Linkedin</a>
 </div>
 
